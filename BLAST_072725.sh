@@ -1,4 +1,15 @@
 #!/bin/bash
+# Genome Retrieval & BLAST Pipeline
+#
+# Developed in the Heras Lab
+# Original pipeline guidance: Dr. Joseph Heras
+# Contributions and collaboration: Taerim Lee
+# Modifications, testing, and documentation: Priscilla Vaskez
+#
+# This script is provided for research and educational purposes.
+
+#!/bin/bash
+
 
 #### Section 1: Makeblastdb and Blastn #### 
 
